@@ -1,0 +1,27 @@
+{
+  "name": "js-ssh2-promise",
+  "version": "0.0.0",
+  "description": "Just wondering is it possible to wrap ssh2 events driven calls by using library Q",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "q": "~1.0.1",
+    "ssh2": "git+https://github.com/mscdex/ssh2.git#23bbd21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mondwan/js-ssh2-promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mondwan/js-ssh2-promise/issues"
+  },
+  "homepage": "https://github.com/mondwan/js-ssh2-promise"
+}
